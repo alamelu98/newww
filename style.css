@@ -1,0 +1,42 @@
+img {
+	width:200px;
+	height:200px;
+}
+body{
+	text-align:center;
+	font-family:'Dancing Script', cursive;
+	background: linear-gradient(beige ,pink );
+	
+}
+h1{
+	background-color: beige;
+	
+}
+p{
+	font-size:30px;
+}
+div {
+	background-color: beige;
+	text-align:center;
+	width:40%;
+	height:50%;
+	position:relative;
+	margin-bottom: 30px;
+	margin-right: 10px;
+	margin-left:40px;
+	
+}
+span{
+	display:flex;
+	flex-flow: wrap;
+	
+	
+}
+div p{
+	font-size:30px;
+	color:forestgreen;
+	background-color: aliceblue;
+	height:100px;
+	
+	
+}
